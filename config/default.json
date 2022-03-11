@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://badboy01:badboy01@cluster0.kupya.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  }
